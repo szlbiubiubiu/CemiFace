@@ -7,11 +7,11 @@ is accepted to NeurIPS 2024, please stay tuned for the code, synthetic dataset a
 
 | Pretrained from | Data Volume | Link| AVG|
 |----|----|----|----|
-| CosFace         | 0.5M        | [link](https://1drv.ms/u/c/7bd58491c54e4351/EaQMx4ixEtlGpvsl0WGOekoBXnuGHSdHHv-b-gPFLVeF1g?e=3wLB4R)| 92.71|
+| CosFace         | 0.5M        | [link](https://1drv.ms/u/c/7bd58491c54e4351/EaQMx4ixEtlGpvsl0WGOekoBw0TibvUFJzVuzz6-W7Sx3g?e=EH0psS)| 92.71|
 | CosFace         | 1.0M        | -| - |
 | CosFace         | 1.2M        | -| - |
 |----|----|----|----|
-| AdaFace         | 0.5M        | [link](https://1drv.ms/u/c/7bd58491c54e4351/Ee7v9_OPrNdNipo_7Sho1XoB95pIqi9dmVnQjCSiYNoWOw?e=TZMbz9) | 92.30|
+| AdaFace         | 0.5M        | [link](https://1drv.ms/u/c/7bd58491c54e4351/Ee7v9_OPrNdNipo_7Sho1XoB74OgOPeeJ-ORzXMS8aW2bg?e=vj7rL0) | 92.30|
 | AdaFace         | 1.0M        | -| - |
 | AdaFace         | 1.2M        | -| - |
 
