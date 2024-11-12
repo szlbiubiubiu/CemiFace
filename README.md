@@ -17,7 +17,7 @@ is accepted to NeurIPS 2024, please stay tuned for the code, synthetic dataset a
 
 
 # Training Log
-Training Log for data dervitived from CosFace are released. Please download and use the following command to view the log
+Training Logs for data derived from CosFace are released. Please download and use the following command to view the log
 
 ```
 cat cemi_train_05m_log.o4607031
