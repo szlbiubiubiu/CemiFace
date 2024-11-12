@@ -1,5 +1,5 @@
 # CemiFace
-![CemiFace](Cemiface.jpg)
+![CemiFace](Cemiface.png)
 <!---
 <p align="center">
     <img src="image/LAFS_aug_small_v3.pdf" alt="pdf" width="600"/>
