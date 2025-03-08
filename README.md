@@ -31,3 +31,5 @@ Training Logs for data derived from CosFace are released. Please download and us
 ```
 cat cemi_train_05m_log.o4607031
 ```
+#Code
+I will be super busy in the next month. Here I release the uncleaned code based on DCFace, please refer to [link](https://drive.google.com/file/d/1sAolrxVzf2z8CGOiQI6UI7ldGPpb3xcS/view?usp=sharing). I will release the cleaned version when I am free. Hope it works for your research!
